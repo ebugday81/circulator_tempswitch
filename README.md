@@ -1,1 +1,1 @@
-# circulator_tempswitch
+A project to automate the measurement of business specific temperature switches
